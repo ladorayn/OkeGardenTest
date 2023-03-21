@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OkeGardenTest</string>
+    <string-array name="my_spinner_items">
+        <item>Kuala Lumpur</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
